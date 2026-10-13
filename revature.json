@@ -1,0 +1,15 @@
+{
+  "type": "java",
+  "testFiles": [
+    {
+      "path": "src/test/java/OrderResultSetTest.java",
+      "testCases": [
+        {
+          "methodName": "problem1AlphabeticalOrder",
+          "label": "Verify characters are ordered alphabetically",
+          "description": "Runs problem1(), which should return all characters ordered alphabetically by last name and then by first name. Compares the result to the expected list of Character objects in sorted order."
+        }
+      ]
+    }
+  ]
+}
